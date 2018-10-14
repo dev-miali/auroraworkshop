@@ -1,13 +1,16 @@
 # auroraworkshop
 
 一、计划
-WorkshopV1.0为半天时间。由ppt实验和动手实践组成。
+WorkshopV1.0为半天时间,由ppt实验和动手实践组成。
 
-1：PPT形式介绍aurora产品及特性。时长1个小时。 
+1：PPT形式介绍aurora产品及特性,时长1个小时。 
 
-2：动手实践
+2：动手实践,时长2个小时。
+
   2.1 aurora benchmark 实测。
+  
   2.2 使用dms/SCT工具实施同构/异构数据库向aurora迁移。
+  
   2.3 体验cloudformation将aurora数据定期导出至s3，便于后续使用emr/athena进行数据分析（可串起第二个workshop：bigdataworkshop，作为结构化数据的来源)
  
 二、分工
