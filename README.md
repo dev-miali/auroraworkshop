@@ -26,9 +26,9 @@ Mia
 
 三、时间要求
 
-1：PPT： 2018年10月20日邮件提交LEO,ALLEN,Mia
+1：PPT： 2018年10月20日邮件提交至LEO,ALLEN,Mia
 
-2：造数据： 数据库设置为完全公开访问，2018年10月21日邮件提交数据库endpoint地址：LEO,Mia,Allen
+2：造数据： 数据库设置为完全公开访问，2018年10月21日邮件提交数据库endpoint地址至LEO,Mia,Allen
 
 3：benchmark 实测实验： 2018年10月23日 提交github地址给： Leo,Annie,Allen
 
